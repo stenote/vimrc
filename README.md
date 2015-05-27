@@ -6,7 +6,7 @@
 
 ## 如何使用
 
-1. 安装
+### 1. 安装
 
 需要安装 `Git`、`Vundle.vim`
 
@@ -14,20 +14,19 @@
 $ git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 
-2. 使用该配置, 并 `git clone` 下该项目:
+### 2. 使用该配置, 并 `git clone` 下该项目:
 
 ```
 $ git clone https://github.com/stenote/my-vimrc ~/my-vimrc/
 ```
 
-
-3. 复制 .vimrc 到 `$HOME`
+### 3. 复制 .vimrc 到 `$HOME`
 
 ```
 $ cp ~/my-vimrc/vimrc $HOME/.vimrc
 ```
 
-4. 安装对应插件
+### 4. 安装对应插件
 
 进入到 **vim** 中执行 `:PluginInstall`, 安装完成后重新启动 **vim** 即可.
 
