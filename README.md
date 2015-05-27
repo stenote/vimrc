@@ -1,4 +1,4 @@
-# my-vimrc
+# vimrc
 
 ## 关于
 
