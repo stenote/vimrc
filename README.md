@@ -2,7 +2,7 @@
 
 ## 关于
 
-我自己使用的 [vim](http://www.vim.org) 的配置. 该配置使用 [Vundle.vim](https://github.com/gmarik/Vundle.vim) 进行插件管理.
+我自己使用的 [vim](http://www.vim.org) 的配置. 该配置插件使用 [Vundle.vim](https://github.com/gmarik/Vundle.vim) 进行管理.
 
 ## 如何使用
 
