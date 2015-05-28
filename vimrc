@@ -3,6 +3,8 @@ set autoindent   	" 自动缩进
 set smartindent
 set hlsearch 		" 高亮检索
 set tabstop=4   	" tab 设定
+set shiftwidth=4
+set softtabstop=4
 set mouse=a 		" 鼠标可用
 set syntax=on 		" 语法高亮
 set t_Co=256 		" 颜色
