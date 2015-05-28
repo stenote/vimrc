@@ -3,6 +3,10 @@ set autoindent   	" 自动缩进
 set smartindent
 set hlsearch 		" 高亮检索
 set tabstop=4   	" tab 设定
+set shiftwidth=4
+set softtabstop=4
+set expandtab
+set smarttab
 set mouse=a 		" 鼠标可用
 
 " tab 快捷键 start
