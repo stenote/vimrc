@@ -1,4 +1,4 @@
-set nu 			" 显示行号
+set nu 				" 显示行号
 set autoindent   	" 自动缩进
 set smartindent
 set hlsearch 		" 高亮检索
@@ -8,6 +8,9 @@ set softtabstop=4
 set expandtab
 set smarttab
 set mouse=a 		" 鼠标可用
+set syntax=on 		" 语法高亮
+set t_Co=256 		" 颜色
+set background=dark " 背景颜色
 
 " tab 快捷键 start
 " 新tab
