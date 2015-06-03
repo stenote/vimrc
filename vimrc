@@ -73,3 +73,7 @@ map <C-d> :NERDTreeToggle<CR>
 let mapleader = ","
 let maplocalleader = ","
 " nerdcommenter end
+
+if has("syntax")
+    syntax on
+endif
