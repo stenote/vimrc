@@ -1,5 +1,9 @@
 # vimrc
 
+**该分支 vim 配置主要用于进行 golang 开发**
+**需要先安装 [gocode](https://github.com/nsf/gocode)**
+**启动自动补全需要进行 C-x C-o**
+
 ## 关于
 
 我自己使用的 [vim](http://www.vim.org) 的配置. 该配置插件使用 [Vundle.vim](https://github.com/gmarik/Vundle.vim) 进行管理.
